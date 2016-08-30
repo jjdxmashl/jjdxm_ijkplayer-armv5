@@ -26,7 +26,8 @@ or Gradle:
 
 历史版本
 
-	compile 'com.dou361.ijkplayer-arm64:jjdxm-ijkplayer-armv5:1.0.0' //对应版本 compile 'tv.danmaku.ijk.media:ijkplayer-armv5:0.6.0'
+	//对应版本 compile 'tv.danmaku.ijk.media:ijkplayer-armv5:0.6.0'
+	compile 'com.dou361.ijkplayer-armv5:jjdxm-ijkplayer-armv5:1.0.0' 
 
 
 jjdxm-ijkplayer-armv5 requires at minimum Java 9.
